@@ -1,2 +1,2 @@
 # hanni-chrissi
-Some basic programms from my kids
+Some programms made by my kids
